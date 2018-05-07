@@ -1,0 +1,25 @@
+#content {
+	margin: auto;
+  background-color: #E7E7E7;
+	
+}
+
+#div-foto p {
+	font-size: 12px;
+	margin-top: 2px;
+	padding-bottom: 20px;
+  background-color: white;
+}
+
+ul > li {
+	font-size: 14px;
+	padding-bottom: 5px;
+}
+
+#about > p {
+	font-size: 18px;
+}
+
+#info-dev {
+   font-size: 13px;
+}
